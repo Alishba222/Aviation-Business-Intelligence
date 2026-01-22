@@ -31,5 +31,5 @@ Data Visualization: Tableau Desktop / Tableau Public
 
 Data Cleaning: Tableau Prep / SQL
 
-Design: Figma (for dashboard wireframing and UI elements)
+
 
